@@ -6,7 +6,7 @@
 
 This repository contains all the tasks completed as part of my **Data Analytics Internship at ApexPlanet Software Pvt. Ltd.** The internship focused on developing practical skills in data cleaning, exploratory data analysis, business intelligence, data storytelling, and statistical validation using industry-standard tools.
 
-Throughout these tasks, I worked on a **Cafe Sales Dataset** to transform raw transactional data into meaningful business insights and interactive visualizations.
+Throughout these tasks, I worked on a **Financial Transactions Dataset** to transform raw transactional data into meaningful business insights and interactive visualizations.
 
 ---
 
