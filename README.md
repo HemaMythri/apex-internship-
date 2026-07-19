@@ -22,20 +22,22 @@ Throughout these tasks, I worked on a **Cafe Sales Dataset** to transform raw tr
 
 # 📂 Project Dataset
 
-**Dataset:** Cafe Sales Dataset
+**Dataset:** Financial Transactions Dataset
 
-The dataset contains approximately **10,000 transaction records** with details including:
+The dataset contains approximately **99,000+ transaction records** with details including:
 
 * Transaction ID
-* Item
-* Quantity
-* Price Per Unit
-* Total Spent
-* Payment Method
-* Location
 * Transaction Date
-* Month
-* Day Name
+* Customer ID
+* Product Name
+* Quantity
+* Price
+* Payment Method
+* Transaction Status
+* Total Amount
+* Transaction Month
+* Transaction Year
+* High Value Transaction
 
 ---
 
@@ -91,17 +93,18 @@ Analyze the cleaned dataset to identify patterns, trends, and business insights.
 
 * Revenue Analysis
 * Product Performance
-* Location-wise Analysis
 * Payment Method Analysis
-* Monthly Sales Trends
-* Day-wise Sales Trends
+* Transaction Status Analysis
+* Monthly Revenue Trends
+* Year-wise Revenue Analysis
 
 ### Key KPIs
 
 * Total Revenue
 * Total Transactions
-* Average Order Value
-* Total Items Sold
+* Average Transaction Value
+* Total Quantity Sold
+* Transaction Success Rate
 
 ### Skills Learned
 
@@ -123,11 +126,11 @@ Build an interactive dashboard to visualize KPIs and business performance.
 ### Dashboard Features
 
 * Executive KPI Cards
-* Revenue Analysis
-* Product Performance
+* Revenue by Product
+* Quantity Sold by Product
 * Payment Method Distribution
-* Location Analysis
-* Monthly Sales Trend
+* Transaction Status Distribution
+* Revenue by Transaction Year
 * Interactive Filters
 
 ### Business Insights
